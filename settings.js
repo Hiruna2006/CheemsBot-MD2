@@ -1,9 +1,9 @@
-//═══════════════════════════════════════════════════════//
+//═════════════════════════ © 2022 Hiroo.san Inc ══════════════════════════════//
 //If you want to recode, reupload
 //or copy the codes/script,
 //pls give credit
 //no credit? i will take action immediately
-//© 2022 Xeon Bot Inc. Doge Bot 
+//© 2022 Hiroo.san Inc. Hiroo Bot 
 //Thank you to Lord Buddha, Family and Myself
 //════════════════════════════//
 
@@ -21,18 +21,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['916909137213']
-global.premium = ['916909137213']
-global.ownernomer = '916909137213'
-global.ownername = '🦄Dream Guy Xeon'
-global.botname = 'Cheems Bot MD V2'
-global.footer = 'Xeon Bot Inc.'
-global.ig = 'https://github.com/DGXeon'
-global.region = 'India, NorthEast, Mizoram'
-global.sc = 'https://github.com/DGXeon/CheemsBot-MD2'
+global.owner = ['94719081281']
+global.premium = ['94719081281']
+global.ownernomer = '94719081281'
+global.ownername = 'Hiroo.san 👻'
+global.botname = 'Hiroo Bot MD V2'
+global.footer = 'Hiroo.san Bot Inc.'
+global.ig = 'https://github.com/Hiruna2006'
+global.region = 'Sri Lanka, India, NorthEast, Mizoram'
+global.sc = 'https://github.com/Hiruna2006/CheemsBot-MD2'
 global.myweb = 'https://youtu.be/imFIX-Wrt3s'
-global.packname = 'Cheems Bot'
-global.author = '🦄Dream Guy Xeon'
+global.packname = 'Hiroo.san Bot'
+global.author = 'Hiruna.san 👻'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
