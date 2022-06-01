@@ -1,8 +1,8 @@
 {
-  "name": "CheemsBot-MD",
+  "name": "Hiroo.san-Bot-MD",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/DGXeon/CheemsBot-MD2",
-  "logo": "https://pbs.twimg.com/media/FO7fojOakAAyYgt?format=jpg&name=900x900",
+  "repository": "https://github.com/Hiruna2006/CheemsBot-MD2",
+  "logo": "https://ibb.co/0BSBHzZ",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
